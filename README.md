@@ -1,11 +1,11 @@
-## watsonForms
+# watsonForms
 Using Watson to analyze responses from a Google form.
 
-## Setup
+# Setup
 
 ## Cloud Platform Accounts
 
-# IBM Cloud
+### IBM Cloud
 
 1. You will need to register for a free [IBM cloud account](https://cloud.ibm.com/registration).
 2. From the dashboard click the "manage" drop down list, and select account.
@@ -17,7 +17,7 @@ Using Watson to analyze responses from a Google form.
 8. On the left hand menu select "service credentials" and click "New credentials"
 9. Click on "view credentials" and save this into a .json file called "watson_client_secret.json"
 
-# Google Developer Console
+### Google Developer Console
 
 1. You will need to register for a free [Google developer account] (https://console.developers.google.com/)
 2. From the API dashboard click "credentials" on the left menu and then "create credentials".  Select "OAuth client Id".
