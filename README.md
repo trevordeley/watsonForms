@@ -1,5 +1,5 @@
 # watsonForms
-Using Watson to analyze responses from a Google form.
+Using Watson to analyze responses from a Google form in a jupyter notebook.
 
 # Setup
 
