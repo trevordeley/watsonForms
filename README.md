@@ -19,7 +19,7 @@ Using Watson to analyze responses from a Google form.
 
 ### Google Developer Console
 
-1. You will need to register for a free [Google developer account] (https://console.developers.google.com/)
+1. You will need to register for a free [Google developer account](https://console.developers.google.com/)
 2. From the API dashboard click "credentials" on the left menu and then "create credentials".  Select "OAuth client Id".
 3. 
 
